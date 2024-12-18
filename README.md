@@ -1,32 +1,36 @@
-## Welcome!! 👋
+# 안녕하세요, 보안 취약점 진단 업무를 맡고 있습니다. 👋
 
-<!--
-**0hakxx/0hakxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
 
-Here are some ideas to get you started:
+## 🛡️ 저는 이런 사람입니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 보안 취약점 진단 및 분석
+- 🐛 버그 바운티 헌터
+- 🌐 웹 및 네트워크 보안 전문가
+- 🖥️ 리버스 엔지니어링 애호가
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hak00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=0hak00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0hak003&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+## 🔧 기술 스택
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/-Metasploit-A90533?style=flat-square&logo=metasploit)
+![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap)
+
+## 🏆 주요 성과
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+## 📊 GitHub 통계
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="깃허브 통계" />
+
+## 📫 연락처
+
+- 이메일: dudgns2207@knou.ac.kr
+
+## 💡 좋아하는 명언
+
+> "보안은 제품이 아니라 과정이다." - Bruce Schneier
+
