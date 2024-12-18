@@ -12,11 +12,16 @@
 
 ## 🔧 기술 스택
 
+## 🔧 기술 스택
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-A90533?style=flat-square&logo=metasploit)
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java)
+
 
 ## 🏆 주요 성과
 
