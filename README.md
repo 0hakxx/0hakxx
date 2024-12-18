@@ -33,7 +33,7 @@
 
 ## 📫 연락처
 
-- 이메일: dudgns2207@knou.ac.kr
+> E-mail: dudgns2207@knou.ac.kr(Shcool Mail)
 
 ## 💡 좋아하는 명언
 
