@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
 
-## 🛡️ 저는 이런 사람입니다
+## 🛡️ Profile
 
 - 🔍 보안 취약점 진단 및 분석 업무 中
 - 🐛 버그 바운티 헌터
