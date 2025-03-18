@@ -30,7 +30,4 @@
 
 > E-mail: dudgns2207@knou.ac.kr(Shcool Mail)
 
-## 💡 좋아하는 명언
-
-> "보안은 제품이 아니라 과정이다." - Bruce Schneier
 
