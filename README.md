@@ -4,7 +4,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center">
-         <a href=mailto:dudgns2207@knou.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dudgns2207@knou.ac.kr"> </a>
+         <a href=mailto:dudgns2207@knou.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yeonghak2207@knou.ac.kr"> </a>
           </div><br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
