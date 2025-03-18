@@ -6,6 +6,9 @@
 
 ## 🔧 기술 스택
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
