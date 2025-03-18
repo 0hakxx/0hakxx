@@ -1,13 +1,5 @@
-# 안녕하세요, 보안 취약점 진단 업무를 맡고 있습니다. 👋
-
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
 
-## 🛡️ Profile
-
-- 🔍 보안 취약점 진단 및 분석 업무 中
-- 🐛 버그 바운티 헌터
-- 🌐 웹 및 네트워크 보안 전문가
-- 🖥️ 리버스 엔지니어링 애호가
 
 
 
