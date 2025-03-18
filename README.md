@@ -17,6 +17,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java)
 
+![0hakxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ## 🏆 주요 성과
 
