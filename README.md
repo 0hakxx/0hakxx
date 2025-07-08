@@ -1,8 +1,8 @@
-# 👋 Hello! I'm David Cho
+# 👋 
 
 ### 💻 Backend Developer | 🛡️ Ex-Security Engineer
 
-> 네트워크 엔지니어 1년 3개월, 보안 취약점 진단 1년의 경험을 살려  
+> 네트워크 엔지니어와 보안 취약점 진단의 경험을 살려  
 > **안정성과 보안을 고려한 백엔드 서비스 개발**을 지향합니다.
 
 ---
@@ -33,26 +33,9 @@
 - 🎓 전공: 정보보안 / 네트워크 기반
 - 🧪 보안 진단 → 백엔드 전향 중
 - 🔐 보안 이슈에 강한 실무형 백엔드 엔지니어 지향
-- 🚀 사이드 프로젝트 진행 중 (JWT 인증, REST API, 배포 등)
-
----
-
-## 🗂️ Notable Projects
-
-| 프로젝트 | 설명 | 링크 |
-|----------|------|------|
-| `SecureMember` | 사용자 인증 기반 회원 시스템 (JWT + Spring Security) | [🔗 바로가기](https://github.com/your-id/secure-member) |
-| `PacketAnalyzer` | Wireshark + Java로 네트워크 패킷 실시간 분석 | (작성 중) |
 
 ---
 
 ## 📫 Contact
 
-- Email: yourmail@example.com  
-- Blog: [https://velog.io/@yourid](https://velog.io/@yourid)  
-- GitHub: [https://github.com/your-id](https://github.com/your-id)
-
 ---
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-id&show_icons=true&theme=radical)
-
