@@ -30,9 +30,8 @@
 
 ## 📌 About Me
 
-- 🎓 전공: KNOU(computer science)
-- 🧪 보안 진단 → 백엔드 전향 중
-- 🔐 보안 이슈에 강한 실무형 백엔드 엔지니어 지향
+- 🎓 전공: computer science
+- 🧪 보안 진단(Web Hacking) → 백엔드 전향
 
 ---
 
