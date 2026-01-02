@@ -1,9 +1,8 @@
 # 👋 
 
-### 💻 Backend Developer | 🛡️ Ex-Security Engineer
+### 🛡️ Ex-Security Engineer
 
-> 네트워크 엔지니어와 보안 취약점 진단의 경험을 살려  
-> **안정성과 보안을 고려한 백엔드 서비스 개발**을 지향합니다.
+
 
 ---
 
@@ -31,7 +30,7 @@
 ## 📌 About Me
 
 - 🎓 전공: computer science
-- 🧪 보안 진단(Web Hacking) → 백엔드 전향
+- 🧪 보안 진단(Web Hacking)
 
 ---
 
