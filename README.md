@@ -14,10 +14,15 @@
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🌐 Network & Security
+### 🌐 Network & Security(Web, iOS, AOS)
 ![Nmap](https://img.shields.io/badge/Nmap-004079?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat-square&logoColor=white)
+Ghidra,![Ghidra](https://img.shields.io/badge/Ghidra-6058F7?style=flat-square&logo=ghidra&logoColor=white),
+Frida,![Frida](https://img.shields.io/badge/Frida-EF5350?style=flat-square&logo=frida&logoColor=white),
+ADB,![Android](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white),
+Burp Suite,![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white),
+JADX,![JADX](https://img.shields.io/badge/JADX-FB8C00?style=flat-square&logo=java&logoColor=white),
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
