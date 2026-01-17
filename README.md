@@ -1,10 +1,6 @@
 # 👋 Hello
 ### 🛡️ Ex-Security Engineer | 🔙 Backend Developer Path
 
-
-
-### 🛡️ Security & Network Engineer
-
 **(총 2년 7개월 실무 경험)**
 
 * **Web / Mobile 취약점 진단 (1Y 4H, 현재 진행 중)**
