@@ -45,6 +45,14 @@
 
 ---
 
+
+## 📜 Certifications
+
+* **정보처리기사**
+* **SQLD (SQL Developer)**
+
+---
+
 ## 📌 Capabilities
 
 - **Secure Coding**: SQLi, XSS, CSRF 등 취약점 분석 경험을 바탕으로 보안이 내재화된 백엔드 로직 설계
