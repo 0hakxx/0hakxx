@@ -10,7 +10,6 @@
 ```
 
 ### `[ Security Engineer → Backend Developer ]`
-> *"Attack surface를 이해하는 개발자가 더 단단한 서비스를 만든다."*
 
 </div>
 
