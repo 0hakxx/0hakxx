@@ -1,45 +1,88 @@
-# 👋 Hello
-### 🛡️ Ex-Security Engineer | 🔙 Backend Developer Path
+<div align="center">
 
-## 🚀 Experience
+```
+██████╗ ███████╗██╗   ██╗    ██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗███████╗
+██╔══██╗██╔════╝██║   ██║    ██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝
+██║  ██║█████╗  ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝█████╔╝ ███████╗
+██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║███╗██║██║   ██║██╔══██╗██╔═██╗ ╚════██║
+██████╔╝███████╗ ╚████╔╝     ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗███████║
+╚═════╝ ╚══════╝  ╚═══╝       ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-**(총 2년 7개월 실무 경험)**
+### `[ Security Engineer → Backend Developer ]`
+> *"Attack surface를 이해하는 개발자가 더 단단한 서비스를 만든다."*
 
-### 🛡️ Web / Mobile 취약점 진단
+</div>
 
-**24.10 ~ 현재 진행 중(1Y 5M)**
-
-* OWASP Top 10 기반 웹 취약점 분석 및 리포팅
-* 인증/인가, 세션 관리, 입력값 검증 취약점 진단
-* 실제 서비스 환경 대상 모의 침투 테스트 수행
-
-### 🌐 Network Engineer
-
-**23.04 ~ 24.07(1Y 3M)**
-
-* L3~L7 트래픽 분석 및 장애 원인 분석
-* TCP/IP, HTTP(S) 기반 통신 구조 이해
-* 보안 장비 및 네트워크 흐름 관점에서의 서비스 구조 분석
 ---
 
-## 🧰 Tech Stack
+## 🧬 About Me
 
-### 🔙 Backend & Modernization
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+보안 엔지니어 & 취약점 진단 업무로 시작하여 현재는 백엔드 개발 중점으로 공부 중에 있습니다.
+**총 2년 7개월**의 실무 경험을 통해 공격자 관점과 개발자 관점을 동시로 역량 강화 중입니다.
 
-### 🛡️ Hacking Web Mobile
+---
+
+## 🗂️ Experience
+
+### 🛡️ Web / Mobile 취약점 진단
+**2024.10 ~ 현재 (1년 5개월)**
+
+- OWASP Top 10 기반 웹 취약점 분석 및 리포팅
+- 인증/인가, 세션 관리, 입력값 검증 취약점 진단
+- 실제 서비스 환경 대상 모의 침투 테스트(Penetration Test) 수행
+- **Blind SQL Injection 자동화 도구** 제작 및 운용 (Python)
+- **FW 탐지 우회 Web Shell** 코드 제작 및 실전 적용
+- **Python 기반 대용량 개인정보 파일 다운로드 자동화 스크립트** 개발 (취약 엔드포인트 식별 후 데이터 수집 자동화)
+
+### 🌐 Network Engineer
+**2023.04 ~ 2024.07 (1년 3개월)**
+
+- L3 ~ L7 트래픽 분석 및 장애 원인 분석
+- TCP/IP, HTTP(S) 기반 통신 구조 심층 이해
+- 보안 장비 및 네트워크 흐름 관점에서의 서비스 구조 분석
+
+---
+
+## 🔐 Security Stack
+
+> 진단, 자동화, 역공학, 분석까지 — 공격자의 전체 플로우를 커버
+
+### 🕵️ Pentest & Analysis
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004079?style=flat-square&logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+
+### 🤖 Exploit Automation (Python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/requests-FF6633?style=flat-square&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- Blind SQLi 자동화 도구 (Binary Search 기반 데이터 추출)
+- FW/WAF 우회 Web Shell 코드 커스터마이징
+- 취약 엔드포인트 탐색 및 대용량 파일 다운로드 자동화
+
+### 🔬 Reverse Engineering & Mobile
 ![Ghidra](https://img.shields.io/badge/Ghidra-6058F7?style=flat-square&logo=ghidra&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-EF5350?style=flat-square&logo=frida&logoColor=white)
 ![JADX](https://img.shields.io/badge/JADX-FB8C00?style=flat-square&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+## 💻 Development Stack
+
+> 보안 내재화(Secure by Design) 원칙으로 백엔드를 설계합니다.
+
+### 🔙 Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### 🛠️ Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -50,20 +93,37 @@
 
 ---
 
-
 ## 📜 Certifications
 
-* **정보처리기사**
-* **SQLD (SQL Developer)**
+| 자격증 | 취득 |
+|--------|------|
+| 🏅 정보처리기사 | ✅ |
+| 🏅 SQLD (SQL Developer) | ✅ |
 
 ---
 
-## 📌 Capabilities
+## 🎯 Core Capabilities
 
-- **Secure Coding**: SQLi, XSS, CSRF 등 취약점 분석 경험을 바탕으로 보안이 내재화된 백엔드 로직 설계
-- **Reverse Engineering**: Ghidra/JADX를 이용한 바이너리 분석 및 로직 복구
-- **Traffic Analysis**: L3~L7 계층 트래픽 분석을 통한 이상 징후 및 프로토콜 분석
-- **Architecture**: 도메인 모델 패턴 기반의 계층형 아키텍처(Controller-Service-Repository) 구현
+### 🔴 Offensive Security
+| 영역 | 상세 |
+|------|------|
+| **Exploit Automation** | Python으로 Blind SQLi 자동화 도구 직접 제작, 실전 데이터 추출 수행 |
+| **WAF/FW Bypass** | 보안 장비 탐지 우회 Web Shell 코드 커스터마이징 및 실전 적용 |
+| **Data Exfiltration** | 취약 엔드포인트 기반 대용량 개인정보 파일 다운로드 자동화 스크립트 개발 |
+| **Mobile Hacking** | Frida + JADX 기반 Android 앱 런타임 후킹 및 역공학 분석 |
+| **Traffic Analysis** | L3~L7 이상 트래픽 탐지 및 프로토콜 분석 |
+
+### 🔵 Secure Development
+| 영역 | 상세 |
+|------|------|
+| **Secure Coding** | SQLi, XSS, CSRF 등 직접 진단한 취약점을 개발 단계에서 방어하는 로직 설계 |
+| **Architecture** | Controller → Service → Repository 계층형 아키텍처, 도메인 모델 패턴 |
+| **API Design** | RESTful API 설계 및 Postman 기반 테스트 자동화 |
 
 ---
 
+<div align="center">
+
+*공격을 이해하는 자만이 진짜 방어를 설계할 수 있다.*
+
+</div>
