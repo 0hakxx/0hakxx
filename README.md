@@ -81,14 +81,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=windows-terminal&logoColor=white)
 
----
 
-## 📜 Certifications
-
-| 자격증 | 취득 |
-|--------|------|
-| 🏅 정보처리기사 | ✅ |
-| 🏅 SQLD (SQL Developer) | ✅ |
 
 ---
 
@@ -112,3 +105,10 @@
 
 ---
 
+
+## 📜 Certifications
+
+| 자격증 | 취득 |
+|--------|------|
+| 🏅 정보처리기사 | ✅ |
+| 🏅 SQLD (SQL Developer) | ✅ |
