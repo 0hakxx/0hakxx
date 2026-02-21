@@ -9,7 +9,7 @@
 ╚═════╝ ╚══════╝  ╚═══╝       ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-### `[ Security Engineer → Backend Developer ]`
+### `[ Security Engineer → Developer ]`
 
 </div>
 
@@ -17,8 +17,7 @@
 
 ## 🧬 About Me
 
-보안 엔지니어 & 취약점 진단 업무로 시작하여 현재는 백엔드 개발 중점으로 공부 중에 있습니다.
-**총 2년 7개월**의 실무 경험을 통해 공격자 관점과 개발자 관점을 동시로 역량 강화 중입니다.
+**총 2년 7개월**의 취약점 진단 실무 경험을 통해 공격자 관점과 개발자 관점을 동시로 역량 강화 중입니다.
 
 ---
 
@@ -45,7 +44,6 @@
 
 ## 🔐 Security Stack
 
-> 진단, 자동화, 역공학, 분석까지 — 공격자의 전체 플로우를 커버
 
 ### 🕵️ Pentest & Analysis
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
@@ -71,7 +69,6 @@
 
 ## 💻 Development Stack
 
-> 보안 내재화(Secure by Design) 원칙으로 백엔드를 설계합니다.
 
 ### 🔙 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
